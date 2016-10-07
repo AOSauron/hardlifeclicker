@@ -1,4 +1,4 @@
-# hardlifeclicker
+# HardLife Clicker
 
 Un gros clicker mamene
 
